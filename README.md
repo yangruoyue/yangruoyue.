@@ -17,7 +17,7 @@
           <div class="textstyle3">
 <span class="textstyle4">杨若</span><span class="textstyle4">悦</span>            </div>
           </div>
-        <img src="rc_images/6a74c57075ccd8e53e03c019d7a4ec4b_1200x533.jpg" width="1200" height="533" id="img_41df46e" alt="" title="" />
+        <img src="rc_images/6a74c57075ccd8e53e03c019d7a4ec4b.jpg" width="1920" height="854" id="img_41df46e" alt="" title="" />
         <div id="text_46b0c69c">
           <div class="textstyle3">
             <span class="textstyle5">Hello<br/>welcome to my webpage <br/>杨若悦</span>
