@@ -13,15 +13,15 @@
   <div id="container_3e575098">
     <div id="container_3e575098_padding" >
       <div class="textstyle3">
-        <img src="rc_images/bbca552a6c6a233c4810dc6dfbfa1802_1200x673.jpg" width="1200" height="673" id="img_4081172c" alt="" title="" />
-        <div id="text_27a5273a">
-          <div class="textstyle3">
-            <span class="textstyle4">Hello,<br/>welcome to my homepage.</span>
-            </div>
-          </div>
         <div id="text_1abba20d">
           <div class="textstyle3">
-<span class="textstyle5">杨若</span><span class="textstyle5">悦</span>            </div>
+<span class="textstyle4">杨若</span><span class="textstyle4">悦</span>            </div>
+          </div>
+        <img src="rc_images/6a74c57075ccd8e53e03c019d7a4ec4b.jpg" width="1920" height="854" id="img_41df46e" alt="" title="" />
+        <div id="text_46b0c69c">
+          <div class="textstyle3">
+            <span class="textstyle5">Hello<br/>welcome to my webpage <br/>杨若悦</span>
+            </div>
           </div>
         </div>
       <div style="clear:both"></div>
@@ -71,8 +71,8 @@
         <span class="textstyle6"><br/><br/><br/></span>
         <div id="container_24d810db">
           <div id="container_24d810db_padding" >
-            <div class="textstyle1">
-              <img src="rc_images/loewenzahn_close.jpg" width="512" height="443" id="img_7883ba7c" alt="" title="" />
+            <div class="textstyle3">
+              <img src="rc_images/89e03a570d79ae2329a9c68ed2a6d268.jpg" width="1076" height="1204" id="img_7b66f638" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
@@ -92,8 +92,7 @@
               <span class="textstyle7"> </span>
               <a href="tel:55512345678" style="text-decoration:none"><div id="button_5353c50c">
                 <div class="vcenterstyle1"><div class="vcenterstyle2">                  <div class="textstyle1">
-                    <span class="textstyle8">Call me</span>
-                    </div>
+<span class="textstyle8">Ca</span><span class="textstyle8">ll me</span>                    </div>
                   <div class="textstyle3">
                     </div>
                   </div></div>
