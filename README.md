@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="RocketCake">
-   
+    <title></title>
     <link rel="stylesheet" type="text/css" href="index_html.css">
 </head>
 <body>
 <div class="textstyle1">
-  <span class="textstyle2"></span>
+  <span class="textstyle2">G</span>
   <div id="container_3e575098">
     <div id="container_3e575098_padding" >
       <div class="textstyle3">
