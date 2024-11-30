@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html> 
 <head>
 	<meta charset="utf-8">
@@ -17,7 +16,7 @@
           <div class="textstyle3">
 <span class="textstyle4">杨若</span><span class="textstyle4">悦</span>            </div>
           </div>
-        <img src="rc_images/6a74c57075ccd8e53e03c019d7a4ec4b.jpg" width="1920" height="854" id="img_41df46e" alt="" title="" />
+        <img src="https://s2.loli.net/2024/11/30/zT8eivmU9IMpZFB.jpg" width="1920" height="854" id="img_41df46e" alt="" title="" />
         <div id="text_46b0c69c">
           <div class="textstyle3">
             <span class="textstyle5">Hello<br/>welcome to my webpage <br/>杨若悦</span>
@@ -50,7 +49,7 @@
         <div id="container_55cd82bf">
           <div id="container_55cd82bf_padding" >
             <div class="textstyle3">
-              <img src="rc_images/81740b4445b528b6d38a97bd4b68722b.jpg" width="767" height="1024" id="img_3b77e554" alt="" title="" />
+              <img src="https://s2.loli.net/2024/11/30/ofTgDt8ldhJFUnA.jpg" width="767" height="1024" id="img_3b77e554" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
@@ -72,7 +71,7 @@
         <div id="container_24d810db">
           <div id="container_24d810db_padding" >
             <div class="textstyle3">
-              <img src="rc_images/89e03a570d79ae2329a9c68ed2a6d268.jpg" width="1076" height="1204" id="img_7b66f638" alt="" title="" />
+              <img src="https://s2.loli.net/2024/11/30/EqZWDTMQX62ctn9.jpg" width="1076" height="1204" id="img_7b66f638" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
